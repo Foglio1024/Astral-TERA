@@ -13,7 +13,7 @@
       "S_LOAD_TOPO":2,
       "C_LOAD_TOPO_FIN":1,
       "S_SPAWN_ME":1,
-      "C_START_SKILL": 4,
+      "C_START_SKILL": 5,
       "C_START_COMBO_INSTANT_SKILL":1,
       "C_START_TARGETED_SKILL":3,
       "C_START_INSTANCE_SKILL":1,
