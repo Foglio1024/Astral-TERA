@@ -1,5 +1,5 @@
 /* global __dirname */
-
+//
 const path = require('path');
 const Command = require('command');
 const fs = require('fs');
